@@ -66,4 +66,9 @@ exports.optimizeImages= functions.storage
 
 
 ```
+![alt text](https://i.ibb.co/n1rY8MG/Screenshot-from-2019-07-15-17-12-31.png "snap")
+
+
+
+[reference from ](https://angularfirebase.com/lessons/image-thumbnail-resizer-cloud-function/)
 
